@@ -1,0 +1,26 @@
+.menus{
+    height: 130px ;
+    width: auto;
+    margin: 15px;
+    text-align: left;
+    
+}
+.contenido{
+    
+    font-weight: 500;
+    font-size: 12px;
+    line-height: normal;
+} 
+/* .titulos{
+    
+} */
+
+.imagen{
+    
+    height: 25vw;
+    min-width: 25vw;
+    width: 25vw;
+    margin-right: 2px;
+    background-color: gray;
+    margin-right: 10px;
+}

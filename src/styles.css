@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+/* Suggested code may be subject to a license. Learn more: ~LicenseLog:1136134733. */
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; text-align: center; background-color: #ec785f; }
+#root { height: 100%   ; }
+.titulo{
+    color: white;
+}
